@@ -36,6 +36,13 @@ url('../webfonts/hkgrotesk-regular-webfont.woff') format('woff');
 }
 
 
+@media (max-width: 768px) {
+    iframe {
+            height: 238px ;
+        }
+}
+
+
 /* ==============================
 Common styles
    ============================== */
